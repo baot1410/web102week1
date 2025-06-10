@@ -35,6 +35,8 @@ Here's a walkthrough of implemented required features:
 
 ![Uploading demo.gif…]()
 
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur & chrome extension  
 <!-- Recommended tools:
