@@ -33,7 +33,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />](https://imgur.com/a/GwpD3aJ)
+![Uploading chrome-capture-2025-6-10.gif…]()
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur & chrome extension  
