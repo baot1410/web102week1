@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Seattle's Boba
 
 Submitted by: Bao Truong
 
@@ -33,9 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Uploading chrome-capture-2025-6-10.gif…]()
-
-
+![Uploading demo.gif…]()
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur & chrome extension  
