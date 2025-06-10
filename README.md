@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Uploading demo.gif…]()
+![demo](assets/demo.gif)
 
 
 
