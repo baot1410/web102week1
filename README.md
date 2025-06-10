@@ -33,8 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[![demo](assets/demo.gif)](https://imgur.com/a/spG0qv7)
-
+https://imgur.com/a/spG0qv7
 
 
 <!-- Replace this with whatever GIF tool you used! -->
